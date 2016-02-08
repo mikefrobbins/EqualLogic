@@ -1,5 +1,5 @@
 ﻿#Requires -Version 3.0
-function Get-MrSANFirmwareVersion {
+function Get-MrEqlFirmwareVersion {
     [CmdletBinding()]
     param(
         [Parameter(Mandatory,
